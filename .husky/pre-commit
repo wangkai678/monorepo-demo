@@ -1,0 +1,2 @@
+# 执行每个子包下面的lint-staged命令
+pnpm -r run lint-staged
