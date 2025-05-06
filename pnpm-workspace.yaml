@@ -1,5 +1,5 @@
 packages:  
     # 放你的项目 
-    - 'apps'  
+    - 'apps/*'  
     # 公共组件，工具库
     - 'packages/*'  
